@@ -1,4 +1,4 @@
-# Metals Feature Requests
+ # Metals Feature Requests
 
 This is the right place to report feature requests for Metals.
 
